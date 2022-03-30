@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bash to print the current directorate, the code beloww must be written exactly as it is without any error, else the code will not run. the code:
 pwd
