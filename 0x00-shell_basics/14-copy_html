@@ -1,0 +1,2 @@
+#!lbin/bash/
+ find . -name *.html -exec cp --parents \{\} .. \;
